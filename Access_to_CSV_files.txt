@@ -1,0 +1,5 @@
+Oct 7th, 2022:
+Access to the simulation data for the training, testing and prediction. These are the outputs of NREL 5MW simulations, runing on OpenFAST.
+Each CSV file include one channel for all the simulations. The naming and the content is self explainatory.
+
+https://drive.google.com/drive/folders/1-JP3h7RXEp5V1y8tnh0l7MC65VaMEOiv?usp=sharing
